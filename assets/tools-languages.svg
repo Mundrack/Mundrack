@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="214" viewBox="0 0 460 214" role="img" aria-labelledby="title desc"><title id="title">LENGUAJES</title><desc id="desc">Python · JavaScript TypeScript · React</desc>
+<defs><linearGradient id="stone" x2="0" y2="1"><stop stop-color="#252126"/><stop offset=".55" stop-color="#151419"/><stop offset="1" stop-color="#201517"/></linearGradient><linearGradient id="gold"><stop stop-color="#6e4825"/><stop offset=".4" stop-color="#ebcb86"/><stop offset=".6" stop-color="#c39a54"/><stop offset="1" stop-color="#6e4825"/></linearGradient></defs>
+<path d="M22 3 H438 L457 22 V192 L438 211 H22 L3 192 V22 Z" fill="url(#stone)" stroke="url(#gold)" stroke-width="2"/>
+<path d="M28 12 H432 L448 28 V186 L432 202 H28 L12 186 V28 Z" fill="none" stroke="#57402b"/>
+<g transform="translate(16 16) scale(1 1)" fill="none" stroke="#b38b4e"><path d="M0 42 V12 Q0 0 12 0 H42 M6 32 Q24 32 17 17 Q32 24 32 6 M3 3 L20 20 M10 5 Q25 5 25 15"/><path d="M8 8 l4 -4 4 4 -4 4 Z" fill="#b38b4e"/></g>
+<g transform="translate(444 16) scale(-1 1)" fill="none" stroke="#b38b4e"><path d="M0 42 V12 Q0 0 12 0 H42 M6 32 Q24 32 17 17 Q32 24 32 6 M3 3 L20 20 M10 5 Q25 5 25 15"/><path d="M8 8 l4 -4 4 4 -4 4 Z" fill="#b38b4e"/></g>
+<g transform="translate(16 198) scale(1 -1)" fill="none" stroke="#b38b4e"><path d="M0 42 V12 Q0 0 12 0 H42 M6 32 Q24 32 17 17 Q32 24 32 6 M3 3 L20 20 M10 5 Q25 5 25 15"/><path d="M8 8 l4 -4 4 4 -4 4 Z" fill="#b38b4e"/></g>
+<g transform="translate(444 198) scale(-1 -1)" fill="none" stroke="#b38b4e"><path d="M0 42 V12 Q0 0 12 0 H42 M6 32 Q24 32 17 17 Q32 24 32 6 M3 3 L20 20 M10 5 Q25 5 25 15"/><path d="M8 8 l4 -4 4 4 -4 4 Z" fill="#b38b4e"/></g>
+<text x="230.0" y="39" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="3" fill="#c19a62">RUNAS DE CREACIÓN</text>
+<text x="230.0" y="80" text-anchor="middle" font-family="Palatino Linotype,Palatino,Georgia,serif" font-size="30" letter-spacing="1.5" fill="#f1d9a0">LENGUAJES</text>
+<path d="M55 100 H212.0 M248.0 100 H405" stroke="url(#gold)"/><path d="M230.0 92 l8 8 -8 8 -8 -8 Z" fill="#852d35" stroke="#c7a56a"/>
+<text x="230.0" y="140" text-anchor="middle" font-family="Palatino Linotype,Palatino,Georgia,serif" font-size="23" fill="#ded5c3">Python · JavaScript</text>
+<text x="230.0" y="173" text-anchor="middle" font-family="Palatino Linotype,Palatino,Georgia,serif" font-size="23" fill="#ded5c3">TypeScript · React</text>
+</svg>

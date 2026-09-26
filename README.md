@@ -1,123 +1,69 @@
 <div align="center">
-
-<a href="https://mundrack.github.io"><img src="assets/mundrack-gothic-hero.png" width="100%" alt="Mundrack — The Kingdom of Code. Un caballero de oro y acero ante una catedral y un dragón." /></a>
-
-<br>
-
-**INGENIERÍA DE SOFTWARE · CALIDAD · INTELIGENCIA ARTIFICIAL · AUTOMATIZACIÓN**
-
-*Cada línea de código, un guerrero. Cada proyecto, una conquista.*
-
-<br>
-
-<p><a href="https://mundrack.github.io"><img src="assets/enter-realm.svg" width="280" alt="Entrar al reino: abrir el portfolio" /></a> &nbsp; <a href="https://github.com/Mundrack?tab=repositories"><img src="assets/view-repositories.svg" width="235" alt="Explorar mis repositorios" /></a></p>
-
-<sub>Portfolio interactivo · Batalla 3D · Proyectos de GitHub</sub>
-
-<br><br>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
+<a href="https://mundrack.github.io"><img src="assets/mundrack-gothic-hero.png" width="100%" alt="Mundrack — The Kingdom of Code. Caballero dorado, catedral y dragón." /></a>
 </div>
 
-<img src="assets/chronicles.svg" width="100%" alt="Crónicas del reino — Mateo Gabriel Puga Montesdeoca" />
+<img src="assets/royal-oath.svg" width="100%" alt="THE KINGDOM OF MUNDRACK: Cada línea de código, un guerrero. Cada proyecto, una conquista." />
 
-Soy **Mateo Gabriel Puga Montesdeoca**, estudiante de Ingeniería de Software en la **UDLA**, desde **Quito, Ecuador**.
+<p align="center"><a href="https://mundrack.github.io"><img src="assets/enter-realm.svg" width="280" alt="Entrar al reino: portfolio" /></a> <a href="https://github.com/Mundrack?tab=repositories"><img src="assets/view-repositories.svg" width="235" alt="Mis repositorios" /></a></p>
 
-Construyo sistemas, analizo requerimientos y automatizo procesos. Me interesa que una buena idea también sea un producto confiable: pruebas, documentación y mejora continua forman parte del trabajo.
+<img src="assets/royal-chronicle.svg" width="100%" alt="CRÓNICAS DEL REINO: Mateo Gabriel Puga Montesdeoca Ingeniería de Software · UDLA · Quito, Ecuador  Construyo sistemas y automatizo procesos. Pruebas, documentación y mejora continua: calidad desde la primera línea." />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center"><img src="assets/craft-forge.svg" width="440" alt="FORJAR: Desarrollo de software e integración de sistemas." />
+<img src="assets/craft-guard.svg" width="440" alt="PROTEGER: QA, testing y validación. Construir con confianza." /></p>
+<p align="center"><img src="assets/craft-discover.svg" width="440" alt="DESCUBRIR: Inteligencia artificial y análisis de desinformación." />
+<img src="assets/craft-connect.svg" width="440" alt="CONECTAR: Automatización con n8n y Docker. Procesos unidos." /></p>
 
-**I · FORJAR**
+<img src="assets/campaigns.svg" width="100%" alt="Campañas y colaboraciones" />
 
-Desarrollo de software e integración de sistemas. Convertir problemas reales en soluciones claras.
+<p align="center"><img src="assets/quest-veritai.svg" width="440" alt="VERITAI: Detección de contenido por IA y análisis de desinformación." />
+<img src="assets/quest-risk.svg" width="440" alt="RISK PLATFORM: Auditorías y gestión organizacional." /></p>
+<p align="center"><img src="assets/quest-cyber.svg" width="440" alt="CYBERLAB: Plataforma educativa de ciberseguridad." />
+<img src="assets/quest-eos.svg" width="440" alt="EOS: Migración e integración de sistemas empresariales." /></p>
 
-</td>
-<td width="50%" valign="top">
+<img src="assets/arsenal.svg" width="100%" alt="Arsenal: herramientas y disciplinas" />
 
-**II · PROTEGER**
+<p align="center"><img src="assets/tools-languages.svg" width="440" alt="LENGUAJES: Python · JavaScript TypeScript · React" />
+<img src="assets/tools-data.svg" width="440" alt="DATOS: MySQL · Supabase Estructura y persistencia." /></p>
+<p align="center"><img src="assets/tools-workflow.svg" width="440" alt="AUTOMATIZACIÓN: n8n · Docker Procesos e integraciones." />
+<img src="assets/tools-quality.svg" width="440" alt="CALIDAD: Git · GitHub QA · Testing · Validación" /></p>
 
-QA, testing y validación. Cuidar la calidad desde el primer paso.
+<img src="assets/royal-archive.svg" width="100%" alt="EL CAMINO RECORRIDO: Primeras campañas, aprendizajes y experimentos. Cada paso también forma parte del reino." />
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+[Interconexión de sistemas](https://github.com/Mundrack/Interconexion_de_sistemas) · [Proyecto IA Accidentes](https://github.com/Mundrack/Proyecto_IA_Accidentes)
 
-**III · DESCUBRIR**
+<img src="assets/royal-finale.svg" width="100%" alt="THIS IS MY KINGDOM: THE KINGDOM OF MUNDRACK  Calidad sobre cantidad. Construir, aprender y volver a forjar." />
 
-Inteligencia artificial, investigación y análisis de desinformación.
+<p align="center"><a href="https://mundrack.github.io"><img src="assets/enter-realm.svg" width="280" alt="Entrar al reino: portfolio" /></a> <a href="https://github.com/Mundrack?tab=repositories"><img src="assets/view-repositories.svg" width="235" alt="Mis repositorios" /></a></p>
 
-</td>
-<td valign="top">
+<details>
+<summary>Leer el perfil en texto · Información y enlaces accesibles</summary>
 
-**IV · CONECTAR**
+## Mateo Gabriel Puga Montesdeoca
 
-Automatización con n8n y Docker, procesos e integraciones.
+Estudiante de Ingeniería de Software en la UDLA, Quito, Ecuador. Construyo sistemas, analizo requerimientos y automatizo procesos. Trabajo con pruebas, documentación y mejora continua.
 
-</td>
-</tr>
-</table>
+- **Desarrollo:** software e integración de sistemas.
+- **Calidad:** QA, testing y validación.
+- **Investigación:** inteligencia artificial y análisis de desinformación.
+- **Automatización:** n8n y Docker.
 
-<p align="center"><i>Calidad sobre cantidad. Construir, aprender y volver a forjar.</i></p>
+### Proyectos y colaboraciones
 
-<br>
+- **VERITAI:** detección de contenido generado por IA y análisis de desinformación. En desarrollo.
+- **Risk Platform:** auditorías y gestión organizacional. Participación completada.
+- **CyberLab:** plataforma educativa de ciberseguridad. Participación completada.
+- **EOS:** migración e integración de sistemas empresariales. Participación completada.
 
-<img src="assets/campaigns.svg" width="100%" alt="Campañas — sistemas, investigación y automatización" />
+### Herramientas
 
-Proyectos y colaboraciones que forman parte de mi recorrido.
+Python, JavaScript, TypeScript, React, MySQL, Supabase, n8n, Docker, Git y GitHub.
 
-| Campaña | Propósito | Mi recorrido |
-| :--- | :--- | :--- |
-| **VERITAI** | Detección de contenido generado por IA y análisis de desinformación | En desarrollo |
-| **Risk Platform** | Plataforma de auditorías y gestión organizacional | Participación completada |
-| **CyberLab** | Plataforma educativa de ciberseguridad | Participación completada |
-| **EOS** | Migración e integración de sistemas empresariales | Participación completada |
+### Archivo y laboratorio
 
-<p align="center"><a href="https://mundrack.github.io">Explorar los proyectos públicos en el portfolio →</a></p>
+[Interconexión de sistemas](https://github.com/Mundrack/Interconexion_de_sistemas) y [Proyecto IA Accidentes](https://github.com/Mundrack/Proyecto_IA_Accidentes) conservan mis primeros aprendizajes. Sigo explorando automatización, inteligencia artificial y seguridad.
 
-<br>
+[Entrar al portfolio](https://mundrack.github.io) · [Ver repositorios](https://github.com/Mundrack?tab=repositories)
 
-<img src="assets/arsenal.svg" width="100%" alt="Arsenal — herramientas al servicio de las ideas" />
+El portfolio incluye una batalla 3D en evolución; los proyectos pueden explorarse sin reproducirla. El arte del perfil es original y estático.
 
-| Disciplina | Herramientas |
-| :--- | :--- |
-| **Lenguajes** | Python · JavaScript · TypeScript |
-| **Interfaces** | React |
-| **Datos** | MySQL · Supabase |
-| **Automatización e infraestructura** | n8n · Docker |
-| **Control de versiones** | Git · GitHub |
-| **Calidad** | QA · Testing · Validación de software |
-
-<br>
-
-<img src="assets/relics.svg" width="100%" alt="Archivo del reino — el camino recorrido también cuenta" />
-
-**Primeras campañas.** Conservo estos proyectos como registro de aprendizaje y evolución:
-
-- [**Interconexión de sistemas**](https://github.com/Mundrack/Interconexion_de_sistemas): primeras experiencias con sistemas, conexiones y JavaScript.
-- [**Proyecto IA Accidentes**](https://github.com/Mundrack/Proyecto_IA_Accidentes): desarrollo web y primeros acercamientos a la inteligencia artificial.
-
-**El laboratorio sigue abierto.** Experimentos de automatización, inteligencia artificial y seguridad: un espacio para probar ideas, aprender de los errores y mejorar.
-
-<br>
-
-<div align="center">
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-### EL REINO SIGUE CRECIENDO
-
-Caballeros, zombies y un dragón custodian el portfolio.<br>
-Los proyectos también pueden explorarse sin reproducir la batalla.
-
-<a href="https://mundrack.github.io"><img src="assets/enter-realm.svg" width="280" alt="Entrar al reino" /></a>
-
-<br><br>
-
-<sub>Quito, Ecuador · Ingeniería de Software · UDLA</sub><br>
-<sub>Arte original para Mundrack. La experiencia 3D continúa en desarrollo.</sub>
-
-</div>
+</details>
