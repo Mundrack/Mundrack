@@ -6,6 +6,11 @@
 
 **Software Engineering · Quality Assurance · Artificial Intelligence · Automation**
 
+[![El reino de Mundrack: fortaleza medieval entre niebla y brasas](assets/realm-cinematic.webp)](https://mundrack.github.io)
+
+**[⚔️ Explorar el portfolio y la batalla 3D](https://mundrack.github.io)**  
+Caballeros, zombies y un dragón custodian los proyectos del reino. Experiencia en evolución.
+
 <br>
 
 > Cada línea de código es un guerrero.  
@@ -109,9 +114,9 @@ Aquí las ideas pueden fallar, transformarse y volver más fuertes.
 
 ### 🐉 El reino interactivo está siendo forjado
 
-La futura experiencia incluirá dragones, caballeros, enemigos y repositorios que aparecerán durante la batalla.
+El portfolio ya incluye una batalla 3D con caballeros, zombies, un dragón y proyectos públicos de GitHub. Puedes explorar los repositorios sin reproducir la escena.
 
-**Cada soldado representará un proyecto.**
+**Los proyectos aparecen como pequeñas etiquetas sobre los soldados caídos.** Estamos mejorando la animación y preparando una presentación cinematográfica medieval. La portada de este perfil es una ilustración estática; el tráiler animado llegará después.
 
 <br>
 
