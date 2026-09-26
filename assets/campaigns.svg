@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="100" viewBox="0 0 960 100" role="img" aria-label="CAMPAÑAS">
+<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#252020"/><stop offset="1" stop-color="#100f12"/></linearGradient><linearGradient id="gold"><stop stop-color="#77532c"/><stop offset=".5" stop-color="#e1c68b"/><stop offset="1" stop-color="#77532c"/></linearGradient></defs>
+<path d="M16 3 H944 L957 16 V84 L944 97 H16 L3 84 V16 Z" fill="url(#bg)" stroke="url(#gold)"/>
+<path d="M24 9 H936 M24 91 H936" stroke="#573e29"/>
+<path d="M20 50.0 l8 -8 8 8 -8 8 Z M924 50.0 l8 -8 8 8 -8 8 Z" fill="#b79251"/>
+<text x="50%" y="47.0" fill="#e8d5aa" text-anchor="middle" font-family="Georgia,serif" font-size="24" letter-spacing="3">CAMPAÑAS</text>
+<text x="50%" y="76.0" fill="#b8aaa0" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="2">SISTEMAS · INVESTIGACIÓN · AUTOMATIZACIÓN</text>
+</svg>

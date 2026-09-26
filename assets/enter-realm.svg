@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="62" viewBox="0 0 310 62" role="img" aria-label="ENTRAR AL REINO">
+<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#252020"/><stop offset="1" stop-color="#100f12"/></linearGradient><linearGradient id="gold"><stop stop-color="#77532c"/><stop offset=".5" stop-color="#e1c68b"/><stop offset="1" stop-color="#77532c"/></linearGradient></defs>
+<path d="M16 3 H294 L307 16 V46 L294 59 H16 L3 46 V16 Z" fill="url(#bg)" stroke="url(#gold)"/>
+<path d="M24 9 H286 M24 53 H286" stroke="#573e29"/>
+<path d="M20 31.0 l8 -8 8 8 -8 8 Z M274 31.0 l8 -8 8 8 -8 8 Z" fill="#b79251"/>
+<text x="50%" y="36.58" fill="#e8d5aa" text-anchor="middle" font-family="Georgia,serif" font-size="18" letter-spacing="3">ENTRAR AL REINO</text>
+
+</svg>
