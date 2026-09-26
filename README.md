@@ -8,39 +8,35 @@
 
 <a href="#perfil-en-texto"><img src="assets/royal-chronicle.svg" width="100%" alt="CRÓNICAS DEL REINO: Mateo Gabriel Puga Montesdeoca Ingeniería de Software · UDLA · Quito, Ecuador  Construyo sistemas y automatizo procesos. Pruebas, documentación y mejora continua: calidad desde la primera línea." /></a>
 
-<p align="center"><a href="#perfil-en-texto"><img src="assets/craft-forge.svg" width="440" alt="FORJAR: Desarrollo de software e integración de sistemas." /></a>
-<a href="#perfil-en-texto"><img src="assets/craft-guard.svg" width="440" alt="PROTEGER: QA, testing y validación. Construir con confianza." /></a></p>
-<p align="center"><a href="#perfil-en-texto"><img src="assets/craft-discover.svg" width="440" alt="DESCUBRIR: Inteligencia artificial y análisis de desinformación." /></a>
-<a href="#perfil-en-texto"><img src="assets/craft-connect.svg" width="440" alt="CONECTAR: Automatización con n8n y Docker. Procesos unidos." /></a></p>
+<p align="center"><a href="#perfil-en-texto"><img src="assets/craft-forge.svg" width="440" alt="FORJAR: Desarrollo de software e integración de sistemas." /></a> <a href="#perfil-en-texto"><img src="assets/craft-guard.svg" width="440" alt="PROTEGER: QA, testing y validación. Construir con confianza." /></a></p>
+<p align="center"><a href="#perfil-en-texto"><img src="assets/craft-discover.svg" width="440" alt="DESCUBRIR: Inteligencia artificial y análisis de desinformación." /></a> <a href="#perfil-en-texto"><img src="assets/craft-connect.svg" width="440" alt="CONECTAR: Automatización con n8n y Docker. Procesos unidos." /></a></p>
 
-<a href="#perfil-en-texto"><img src="assets/campaigns.svg" width="100%" alt="Campañas y colaboraciones" /></a>
+<a href="#perfil-en-texto"><img src="assets/campaigns-cathedral.png" width="100%" alt="Campañas y colaboraciones" /></a>
 
-<p align="center"><a href="#perfil-en-texto"><img src="assets/quest-veritai.svg" width="440" alt="VERITAI: Detección de contenido por IA y análisis de desinformación." /></a>
-<a href="#perfil-en-texto"><img src="assets/quest-risk.svg" width="440" alt="RISK PLATFORM: Auditorías y gestión organizacional." /></a></p>
-<p align="center"><a href="#perfil-en-texto"><img src="assets/quest-cyber.svg" width="440" alt="CYBERLAB: Plataforma educativa de ciberseguridad." /></a>
-<a href="#perfil-en-texto"><img src="assets/quest-eos.svg" width="440" alt="EOS: Migración e integración de sistemas empresariales." /></a></p>
+<p align="center"><a href="#perfil-en-texto"><img src="assets/quest-veritai.svg" width="440" alt="VERITAI: Detección de contenido por IA y análisis de desinformación." /></a> <a href="#perfil-en-texto"><img src="assets/quest-risk.svg" width="440" alt="RISK PLATFORM: Auditorías y gestión organizacional." /></a></p>
+<p align="center"><a href="#perfil-en-texto"><img src="assets/quest-cyber.svg" width="440" alt="CYBERLAB: Plataforma educativa de ciberseguridad." /></a> <a href="#perfil-en-texto"><img src="assets/quest-eos.svg" width="440" alt="EOS: Migración e integración de sistemas empresariales." /></a></p>
 
 <a href="#perfil-en-texto"><img src="assets/arsenal.svg" width="100%" alt="Arsenal: herramientas y disciplinas" /></a>
 
-<p align="center"><a href="#perfil-en-texto"><img src="assets/tools-languages.svg" width="440" alt="LENGUAJES: Python · JavaScript TypeScript · React" /></a>
-<a href="#perfil-en-texto"><img src="assets/tools-data.svg" width="440" alt="DATOS: MySQL · Supabase Estructura y persistencia." /></a></p>
-<p align="center"><a href="#perfil-en-texto"><img src="assets/tools-workflow.svg" width="440" alt="AUTOMATIZACIÓN: n8n · Docker Procesos e integraciones." /></a>
-<a href="#perfil-en-texto"><img src="assets/tools-quality.svg" width="440" alt="CALIDAD: Git · GitHub QA · Testing · Validación" /></a></p>
+<p align="center"><a href="#perfil-en-texto"><img src="assets/tools-languages.svg" width="440" alt="LENGUAJES: Python · JavaScript TypeScript · React" /></a> <a href="#perfil-en-texto"><img src="assets/tools-data.svg" width="440" alt="DATOS: MySQL · Supabase Estructura y persistencia." /></a></p>
+<p align="center"><a href="#perfil-en-texto"><img src="assets/tools-workflow.svg" width="440" alt="AUTOMATIZACIÓN: n8n · Docker Procesos e integraciones." /></a> <a href="#perfil-en-texto"><img src="assets/tools-quality.svg" width="440" alt="CALIDAD: Git · GitHub QA · Testing · Validación" /></a></p>
 
 <a href="#perfil-en-texto"><img src="assets/royal-archive.svg" width="100%" alt="EL CAMINO RECORRIDO: Primeras campañas, aprendizajes y experimentos. Cada paso también forma parte del reino." /></a>
 
 [Interconexión de sistemas](https://github.com/Mundrack/Interconeccion_de_sistemas) · [Proyecto IA Accidentes](https://github.com/Mundrack/Proyecto_IA_Accidentes)
 
 
-<p align="center"><a href="https://github.com/Mundrack/SegundoSemestre"><img src="assets/repository-semester.svg" width="440" alt="SEGUNDO SEMESTRE: C Abrir repositorio en GitHub →" /></a>
-<a href="https://github.com/Mundrack/PraticaArchivos"><img src="assets/repository-files.svg" width="440" alt="ARCHIVOS: C Abrir repositorio en GitHub →" /></a></p>
-<p align="center"><a href="https://github.com/Mundrack/proyectoFinalSeguirdadInformatica"><img src="assets/repository-security.svg" width="440" alt="SEGURIDAD: HTML Abrir repositorio en GitHub →" /></a>
-<a href="https://github.com/Mundrack/Proyecto_IA_Accidentes"><img src="assets/repository-accidents.svg" width="440" alt="IA · ACCIDENTES: HTML Abrir repositorio en GitHub →" /></a></p>
-<p align="center"><a href="https://github.com/Mundrack/Interconeccion_de_sistemas"><img src="assets/repository-systems.svg" width="440" alt="INTERCONEXIÓN: JavaScript Abrir repositorio en GitHub →" /></a>
-<a href="https://github.com/Mundrack/Gremio"><img src="assets/repository-guild.svg" width="440" alt="GREMIO: Proyecto público Abrir repositorio en GitHub →" /></a></p>
+<p align="center"><a href="https://github.com/Mundrack/SegundoSemestre"><img src="assets/repository-semester.svg" width="440" alt="SEGUNDO SEMESTRE: C Abrir repositorio en GitHub →" /></a> <a href="https://github.com/Mundrack/PraticaArchivos"><img src="assets/repository-files.svg" width="440" alt="ARCHIVOS: C Abrir repositorio en GitHub →" /></a></p>
+<p align="center"><a href="https://github.com/Mundrack/proyectoFinalSeguirdadInformatica"><img src="assets/repository-security.svg" width="440" alt="SEGURIDAD: HTML Abrir repositorio en GitHub →" /></a> <a href="https://github.com/Mundrack/Proyecto_IA_Accidentes"><img src="assets/repository-accidents.svg" width="440" alt="IA · ACCIDENTES: HTML Abrir repositorio en GitHub →" /></a></p>
+<p align="center"><a href="https://github.com/Mundrack/Interconeccion_de_sistemas"><img src="assets/repository-systems.svg" width="440" alt="INTERCONEXIÓN: JavaScript Abrir repositorio en GitHub →" /></a> <a href="https://github.com/Mundrack/Gremio"><img src="assets/repository-guild.svg" width="440" alt="GREMIO: Proyecto público Abrir repositorio en GitHub →" /></a></p>
 <a href="#perfil-en-texto"><img src="assets/royal-finale.svg" width="100%" alt="THIS IS MY KINGDOM: THE KINGDOM OF MUNDRACK  Calidad sobre cantidad. Construir, aprender y volver a forjar." /></a>
 
 <p align="center"><a href="https://mundrack.github.io"><img src="assets/enter-realm.svg" width="280" alt="Entrar al reino: portfolio" /></a> <a href="https://github.com/Mundrack?tab=repositories"><img src="assets/view-repositories.svg" width="235" alt="Mis repositorios" /></a></p>
+
+<a name="cronicas-de-actividad"></a>
+<p align="center"><a href="https://github.com/Mundrack?tab=overview"><picture><source media="(max-width: 600px)" srcset="assets/activity-calendar-mobile.svg" /><img src="assets/activity-calendar.svg" width="100%" alt="Crónicas de actividad: 51 contribuciones visibles sin sesión, del 2025-09-21 al 2026-09-26." /></picture></a></p>
+
+<p align="center"><sub>Copia de la vista pública · Actualizada 2026-09-26 UTC · Puede diferir de tu vista con sesión iniciada.</sub><br><a href="data/activity.csv">Consultar datos por día</a> · <a href="https://github.com/users/Mundrack/contributions">Ver fuente en GitHub</a></p>
 
 <p align="center"><a href="https://mundrack.github.io"><img src="assets/cathedral-finale.png" width="100%" alt="The Kingdom of Mundrack: una catedral de piedra, vitrales y oro. Abrir el portfolio." /></a></p>
 
