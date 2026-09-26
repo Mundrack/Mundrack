@@ -1,6 +1,7 @@
 from pathlib import Path
 from html import escape
 import textwrap
+import re
 ROOT=Path(__file__).resolve().parents[1]
 A=ROOT/'assets'
 def panel(name,title,lines,kicker='',w=460):
@@ -11,6 +12,14 @@ def panel(name,title,lines,kicker='',w=460):
     '<defs><linearGradient id="stone" x2="0" y2="1"><stop stop-color="#252126"/><stop offset=".55" stop-color="#151419"/><stop offset="1" stop-color="#201517"/></linearGradient><linearGradient id="gold"><stop stop-color="#6e4825"/><stop offset=".4" stop-color="#ebcb86"/><stop offset=".6" stop-color="#c39a54"/><stop offset="1" stop-color="#6e4825"/></linearGradient></defs>',
     f'<path d="M22 3 H{w-22} L{w-3} 22 V{h-22} L{w-22} {h-3} H22 L3 {h-22} V22 Z" fill="url(#stone)" stroke="url(#gold)" stroke-width="2"/>',
     f'<path d="M28 12 H{w-28} L{w-12} 28 V{h-28} L{w-28} {h-12} H28 L12 {h-28} V28 Z" fill="none" stroke="#57402b"/>']
+    # Recessed gothic windows and pillars behind the inscriptions.
+    for x in [42,w-92]:
+        parts.append(f'<g opacity=".48"><path d="M{x} {h-26} V80 Q{x} 46 {x+25} 27 Q{x+50} 46 {x+50} 80 V{h-26} Z" fill="#291b25" stroke="#947047"/><path d="M{x+6} {h-28} V82 Q{x+6} 52 {x+25} 37 Q{x+44} 52 {x+44} 82 V{h-28} M{x+25} 38 V{h-28} M{x+2} 91 H{x+48}" fill="none" stroke="#8d673b"/><path d="M{x+5} 76 L{x+25} 56 L{x+45} 76 L{x+25} 96 Z" fill="#682d32" stroke="#b5894b"/></g>')
+    parts.append(f'<path d="M88 {h-22} V85 Q88 35 {w/2} 15 Q{w-88} 35 {w-88} 85 V{h-22}" fill="none" stroke="#7e5e37" opacity=".45"/>')
+    # Keep lettering on a quiet central surface, architecture at the margins.
+    parts.append(f'<rect x="65" y="22" width="{w-130}" height="{h-44}" rx="20" fill="#141216" opacity=".77"/>')
+    for x in [27,w-27]:
+        parts.append(f'<path d="M{x-4} 61 V{h-61} M{x+4} 61 V{h-61}" stroke="#b49157" opacity=".5"/>')
     # Engraved corner ornaments, mirrored rather than large external textures.
     for x,y,sx,sy in [(16,16,1,1),(w-16,16,-1,1),(16,h-16,1,-1),(w-16,h-16,-1,-1)]:
         parts.append(f'<g transform="translate({x} {y}) scale({sx} {sy})" fill="none" stroke="#b38b4e"><path d="M0 42 V12 Q0 0 12 0 H42 M6 32 Q24 32 17 17 Q32 24 32 6 M3 3 L20 20 M10 5 Q25 5 25 15"/><path d="M8 8 l4 -4 4 4 -4 4 Z" fill="#b38b4e"/></g>')
@@ -50,7 +59,7 @@ buttons='<p align="center"><a href="https://mundrack.github.io"><img src="assets
 s='<div align="center">\n<a href="https://mundrack.github.io"><img src="assets/mundrack-gothic-hero.png" width="100%" alt="Mundrack — The Kingdom of Code. Caballero dorado, catedral y dragón." /></a>\n</div>\n\n'+intro+'\n\n'+buttons+'\n\n'+bio+'\n\n'
 s+=row(cards[:2])+row(cards[2:])+section('campaigns','Campañas y colaboraciones')+row(projects[:2])+row(projects[2:])
 s+=section('arsenal','Arsenal: herramientas y disciplinas')+row(arsenal[:2])+row(arsenal[2:])+'\n'+relic+'\n\n'
-s+='[Interconexión de sistemas](https://github.com/Mundrack/Interconexion_de_sistemas) · [Proyecto IA Accidentes](https://github.com/Mundrack/Proyecto_IA_Accidentes)\n\n'
+s+='[Interconexión de sistemas](https://github.com/Mundrack/Interconeccion_de_sistemas) · [Proyecto IA Accidentes](https://github.com/Mundrack/Proyecto_IA_Accidentes)\n\n'
 s+=footer+'\n\n'+buttons+'\n\n'
 s+='''<details>
 <summary>Leer el perfil en texto · Información y enlaces accesibles</summary>
@@ -77,7 +86,7 @@ Python, JavaScript, TypeScript, React, MySQL, Supabase, n8n, Docker, Git y GitHu
 
 ### Archivo y laboratorio
 
-[Interconexión de sistemas](https://github.com/Mundrack/Interconexion_de_sistemas) y [Proyecto IA Accidentes](https://github.com/Mundrack/Proyecto_IA_Accidentes) conservan mis primeros aprendizajes. Sigo explorando automatización, inteligencia artificial y seguridad.
+[Interconexión de sistemas](https://github.com/Mundrack/Interconeccion_de_sistemas) y [Proyecto IA Accidentes](https://github.com/Mundrack/Proyecto_IA_Accidentes) conservan mis primeros aprendizajes. Sigo explorando automatización, inteligencia artificial y seguridad.
 
 [Entrar al portfolio](https://mundrack.github.io) · [Ver repositorios](https://github.com/Mundrack?tab=repositories)
 
@@ -85,5 +94,29 @@ El portfolio incluye una batalla 3D en evolución; los proyectos pueden explorar
 
 </details>
 '''
+# Decorative plates link to the accessible transcript instead of GitHub's
+# automatic image-file viewer. Existing explicit navigation remains intact.
+def link_image(match):
+    before,img,after=match.groups()
+    if before: return match.group(0)
+    return '<a href="#perfil-en-texto">'+img+'</a>'
+s=re.sub(r'(<a\b[^>]*>)?(<img\b[^>]*>)(</a>)?',link_image,s)
+s=s.replace('<details>', '<a name="perfil-en-texto"></a>\n<details>')
+repositories=[
+ ('semester','SEGUNDO SEMESTRE','SegundoSemestre','C'),
+ ('files','ARCHIVOS','PraticaArchivos','C'),
+ ('security','SEGURIDAD','proyectoFinalSeguirdadInformatica','HTML'),
+ ('accidents','IA · ACCIDENTES','Proyecto_IA_Accidentes','HTML'),
+ ('systems','INTERCONEXIÓN','Interconeccion_de_sistemas','JavaScript'),
+ ('guild','GREMIO','Gremio','Proyecto público'),
+]
+gallery=[]
+for key,title,repo,language in repositories:
+    card=panel('repository-'+key,title,[language,'Abrir repositorio en GitHub →'],'LOS ARCHIVOS DEL REINO')
+    gallery.append(f'<a href="https://github.com/Mundrack/{repo}">{card}</a>')
+gallery_html='\n'+''.join(row(gallery[i:i+2]) for i in range(0,len(gallery),2))
+cathedral='<p align="center"><a href="https://mundrack.github.io"><img src="assets/cathedral-finale.png" width="100%" alt="The Kingdom of Mundrack: una catedral de piedra, vitrales y oro. Abrir el portfolio." /></a></p>\n'
+s=s.replace('<a href="#perfil-en-texto"><img src="assets/royal-finale.svg"',gallery_html+'<a href="#perfil-en-texto"><img src="assets/royal-finale.svg"')
+s=s.replace('<a name="perfil-en-texto"></a>',cathedral+'\n<a name="perfil-en-texto"></a>')
 (ROOT/'README.md').write_text(s,encoding='utf-8')
 print('Generated ornamental profile panels and accessible README.')

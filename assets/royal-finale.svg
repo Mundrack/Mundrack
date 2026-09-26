@@ -2,6 +2,12 @@
 <defs><linearGradient id="stone" x2="0" y2="1"><stop stop-color="#252126"/><stop offset=".55" stop-color="#151419"/><stop offset="1" stop-color="#201517"/></linearGradient><linearGradient id="gold"><stop stop-color="#6e4825"/><stop offset=".4" stop-color="#ebcb86"/><stop offset=".6" stop-color="#c39a54"/><stop offset="1" stop-color="#6e4825"/></linearGradient></defs>
 <path d="M22 3 H938 L957 22 V258 L938 277 H22 L3 258 V22 Z" fill="url(#stone)" stroke="url(#gold)" stroke-width="2"/>
 <path d="M28 12 H932 L948 28 V252 L932 268 H28 L12 252 V28 Z" fill="none" stroke="#57402b"/>
+<g opacity=".48"><path d="M42 254 V80 Q42 46 67 27 Q92 46 92 80 V254 Z" fill="#291b25" stroke="#947047"/><path d="M48 252 V82 Q48 52 67 37 Q86 52 86 82 V252 M67 38 V252 M44 91 H90" fill="none" stroke="#8d673b"/><path d="M47 76 L67 56 L87 76 L67 96 Z" fill="#682d32" stroke="#b5894b"/></g>
+<g opacity=".48"><path d="M868 254 V80 Q868 46 893 27 Q918 46 918 80 V254 Z" fill="#291b25" stroke="#947047"/><path d="M874 252 V82 Q874 52 893 37 Q912 52 912 82 V252 M893 38 V252 M870 91 H916" fill="none" stroke="#8d673b"/><path d="M873 76 L893 56 L913 76 L893 96 Z" fill="#682d32" stroke="#b5894b"/></g>
+<path d="M88 258 V85 Q88 35 480.0 15 Q872 35 872 85 V258" fill="none" stroke="#7e5e37" opacity=".45"/>
+<rect x="65" y="22" width="830" height="236" rx="20" fill="#141216" opacity=".77"/>
+<path d="M23 61 V219 M31 61 V219" stroke="#b49157" opacity=".5"/>
+<path d="M929 61 V219 M937 61 V219" stroke="#b49157" opacity=".5"/>
 <g transform="translate(16 16) scale(1 1)" fill="none" stroke="#b38b4e"><path d="M0 42 V12 Q0 0 12 0 H42 M6 32 Q24 32 17 17 Q32 24 32 6 M3 3 L20 20 M10 5 Q25 5 25 15"/><path d="M8 8 l4 -4 4 4 -4 4 Z" fill="#b38b4e"/></g>
 <g transform="translate(944 16) scale(-1 1)" fill="none" stroke="#b38b4e"><path d="M0 42 V12 Q0 0 12 0 H42 M6 32 Q24 32 17 17 Q32 24 32 6 M3 3 L20 20 M10 5 Q25 5 25 15"/><path d="M8 8 l4 -4 4 4 -4 4 Z" fill="#b38b4e"/></g>
 <g transform="translate(16 264) scale(1 -1)" fill="none" stroke="#b38b4e"><path d="M0 42 V12 Q0 0 12 0 H42 M6 32 Q24 32 17 17 Q32 24 32 6 M3 3 L20 20 M10 5 Q25 5 25 15"/><path d="M8 8 l4 -4 4 4 -4 4 Z" fill="#b38b4e"/></g>
